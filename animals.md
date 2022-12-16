@@ -4,25 +4,25 @@
 
 ### ANIMAL TRANSPORTATION
 * Birds travel via air
-* Fish travel via water
+* Lions travel via land
 * Ducks travel via land and water
 
 
 ### ANIMAL NOISES
 * Birds say tweet tweet
-* Fish say blub blub
+* Lions say ROAR!!!
 * Ducks says quack quack
 
 
 ### ANIMAL COLORS
 * Most birds are gray
-* Fish come in all sorts of colors!
+* Lions are reddish-orange
 * Ducks are yellow
 
 
 ### ANIMAL NAMES
 * A good bird name is Tweety
-* A good fish name is Nemo
+* A good lion name is Simba
 * A good duck name is Donald
 
 
